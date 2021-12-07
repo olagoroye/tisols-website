@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/olagoroye/tisols-website/static/css/main.85575231.chunk.css",
-    "main.js": "/olagoroye/tisols-website/static/js/main.66e2bd1b.chunk.js",
-    "main.js.map": "/olagoroye/tisols-website/static/js/main.66e2bd1b.chunk.js.map",
-    "runtime-main.js": "/olagoroye/tisols-website/static/js/runtime-main.a0888cdc.js",
-    "runtime-main.js.map": "/olagoroye/tisols-website/static/js/runtime-main.a0888cdc.js.map",
-    "static/js/2.87bb3ae6.chunk.js": "/olagoroye/tisols-website/static/js/2.87bb3ae6.chunk.js",
-    "static/js/2.87bb3ae6.chunk.js.map": "/olagoroye/tisols-website/static/js/2.87bb3ae6.chunk.js.map",
-    "static/js/3.875137f5.chunk.js": "/olagoroye/tisols-website/static/js/3.875137f5.chunk.js",
-    "static/js/3.875137f5.chunk.js.map": "/olagoroye/tisols-website/static/js/3.875137f5.chunk.js.map",
-    "index.html": "/olagoroye/tisols-website/index.html",
-    "static/css/main.85575231.chunk.css.map": "/olagoroye/tisols-website/static/css/main.85575231.chunk.css.map",
-    "static/js/2.87bb3ae6.chunk.js.LICENSE.txt": "/olagoroye/tisols-website/static/js/2.87bb3ae6.chunk.js.LICENSE.txt"
+    "main.css": "/tisols-website/static/css/main.85575231.chunk.css",
+    "main.js": "/tisols-website/static/js/main.66e2bd1b.chunk.js",
+    "main.js.map": "/tisols-website/static/js/main.66e2bd1b.chunk.js.map",
+    "runtime-main.js": "/tisols-website/static/js/runtime-main.eb523603.js",
+    "runtime-main.js.map": "/tisols-website/static/js/runtime-main.eb523603.js.map",
+    "static/js/2.87bb3ae6.chunk.js": "/tisols-website/static/js/2.87bb3ae6.chunk.js",
+    "static/js/2.87bb3ae6.chunk.js.map": "/tisols-website/static/js/2.87bb3ae6.chunk.js.map",
+    "static/js/3.875137f5.chunk.js": "/tisols-website/static/js/3.875137f5.chunk.js",
+    "static/js/3.875137f5.chunk.js.map": "/tisols-website/static/js/3.875137f5.chunk.js.map",
+    "index.html": "/tisols-website/index.html",
+    "static/css/main.85575231.chunk.css.map": "/tisols-website/static/css/main.85575231.chunk.css.map",
+    "static/js/2.87bb3ae6.chunk.js.LICENSE.txt": "/tisols-website/static/js/2.87bb3ae6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0888cdc.js",
+    "static/js/runtime-main.eb523603.js",
     "static/js/2.87bb3ae6.chunk.js",
     "static/css/main.85575231.chunk.css",
     "static/js/main.66e2bd1b.chunk.js"
